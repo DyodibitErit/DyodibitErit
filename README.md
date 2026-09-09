@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 It's me, **Dyodibit** (or DyodibitErit)
+
 🔭 I am currently working on NoScroll - my own social media.
 
 🌱 I am currently learning JavaScript and MySQL
