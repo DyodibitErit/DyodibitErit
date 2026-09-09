@@ -2,7 +2,9 @@
 
 It's me, **Dyodibit** (or DyodibitErit)
 🔭 I am currently working on NoScroll - my own social media.
+
 🌱 I am currently learning JavaScript and MySQL
+
 📫 Contact me on:
 1. Discord: @dyodibit
 2. Telegram: @jevil_icandoanything
